@@ -8,8 +8,8 @@
   development, where I build high-performance, intuitive user interfaces using modern web technologies.
 </p>
 <p>
-  On GitHub, I share practical, open-source projects designed to add value to everyday users, providing developers and
-  users alike with tools that simplify tasks and enhance productivity. ✨
+  💻 On GitHub, I share practical, open-source projects designed to add value to everyday users, providing developers and
+  users alike with tools that simplify tasks and enhance productivity.
 </p>
 <p> 🔹 Key Technologies: WordPress, WooCommerce, Elementor, PHP, JavaScript (React), HTML, CSS (Tailwind, Sass, Bootstrap) </p>
 <p> 🔹 Focus Areas: Web Development, WordPress, Front-End Development </p>
