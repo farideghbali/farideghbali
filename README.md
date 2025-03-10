@@ -1,14 +1,18 @@
 <p style="display: inline-block">Hi there :) I am</p>
 <h1 style="display: inline-block">Farid Eghbali</h1>
 <p>
-  I'm an experienced senior WordPress developer with a strong background in international projects. My expertise also
-  extends to front-end development, where I craft intuitive, high-performing user experiences. On GitHub, I share
-  practical, open-source projects that are designed to bring value to everyday users, providing developers and users
-  alike with tools that simplify tasks and enhance productivity. My focus is on delivering solutions that are not only
-  functional but also optimized for scalability and performance.
-</p>
+<h3><b>🚀 Senior WordPress Developer</b></h3>
 <p>
-  Curious to see more of my work? Visit <a href="https://farideghbali.com/"> farideghbali.com </a> for a deeper dive
-  into my portfolio and expertise.
+  I'm a senior WordPress developer with extensive experience in international projects, specializing in custom theme and
+  plugin development, performance optimization, and scalable architectures. My expertise also extends to front-end
+  development, where I build high-performance, intuitive user interfaces using modern web technologies.
+  On GitHub, I share practical, open-source projects designed to add value to everyday users, providing developers and
+  users alike with tools that simplify tasks and enhance productivity.
+<br>
+  🔹 Key Technologies: WordPress, WooCommerce, Elementor, PHP, JavaScript (React), HTML, CSS (Tailwind, Sass, Bootstrap)
+  <br>
+  🔹 Focus Areas: Web Development, WordPress, Front-End Development
 </p>
-<p>Linkedin Profile: <a href="https://www.linkedin.com/in/farideghbali/">Farid Eghbali</a></p>
+
+<p><b> 📂 Check out my work: </b> <a href="https://farideghbali.com/"> Farideghbali.com </a></p>
+<p><b> 🔗 Connect on LinkedIn: </b> <a href="https://www.linkedin.com/in/farideghbali/"> Farid Eghbali </a></p>
